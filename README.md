@@ -1,2 +1,2 @@
 # PacMan-RL
-A reinforcement learning agent for playing PacMan
+A reinforcement learning agent that plays  PacMan
