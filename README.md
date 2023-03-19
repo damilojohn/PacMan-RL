@@ -1,2 +1,2 @@
 # PacMan-RL
-A reinforcement learning agent that plays  PacMan
+RL agent that plays PacMan using openAI GYM
